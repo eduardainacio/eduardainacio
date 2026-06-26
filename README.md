@@ -1,10 +1,5 @@
 ### Olá, eu sou a Eduarda!
 
-<div align="left">
-  <a href="https://github.com/eduardainacio">
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardainacio&layout=compact&langs_count=16&theme=omni"/>
-</div>
-
 ##
 
 <div style="display: inline-block"><br>
