@@ -69,7 +69,7 @@
           <a href="https://www.linkedin.com/in/eduarda-inacio/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-F4C2C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=F8BBD9">
           </a>
-          <a href="https://github.com/eduarda.in" target="_blank">
+          <a href="https://github.com/eduardainacio" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-F4C2C2?style=for-the-badge&logo=github&logoColor=white">
           </a>
           <br>
